@@ -19,3 +19,5 @@ services:
     generateValue: true
 databases:
 - name: hasura
+  region: frankfurt
+  plan: standard
